@@ -38,5 +38,5 @@ A performance-logging utility that records gameplay metrics and exports session 
 ---
 
 ## 📫 Connect With Me
-* **GitHub:** [@ArmouredAvngr](https://github.com)
+* **GitHub:** [@ArmouredAvngr](https://github.com/ArmouredAvngr)
 * **Email:** ayansh.ramakrishnan@gmail.com
