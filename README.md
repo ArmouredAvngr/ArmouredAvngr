@@ -15,7 +15,7 @@ I'm a Python developer passionate about building practical desktop applications,
 
 ## 🚀 Featured Projects
 
-### 1. [City Statistics (Live Weather & Location)](https://github.com)
+### 1. [City Statistics (Live Weather & Location)](https://github.com/ArmouredAvngr/City_Statistics)
 A Tkinter desktop dashboard that connects to the Open-Meteo Geocoding and Forecast REST APIs to fetch real-time coordinates and live weather statistics for any city worldwide.
 * **Key Tech:** `Python`, `Tkinter`, `requests`, `REST APIs`, `JSON`
 
