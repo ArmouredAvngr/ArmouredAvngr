@@ -19,7 +19,7 @@ I'm a Python developer passionate about building practical desktop applications,
 A Tkinter desktop dashboard that connects to the Open-Meteo Geocoding and Forecast REST APIs to fetch real-time coordinates and live weather statistics for any city worldwide.
 * **Key Tech:** `Python`, `Tkinter`, `requests`, `REST APIs`, `JSON`
 
-### 2. [Parametric Gear Generator & SVG Exporter](https://github.com)
+### 2. [Parametric Gear Generator & SVG Exporter](https://github.com/ArmouredAvngr/Gear_Maker)
 An interactive Tkinter desktop application that procedurally generates 50 FPS animated gears from scratch using polar-to-Cartesian trigonometry, with live controls for tooth count, speed, gear size, and tooth length, plus one-click CAD-ready `.svg` export.
 * **Key Tech:** `Python`, `Tkinter`, `math` (Trigonometry), `SVG`, `PyInstaller`
 
